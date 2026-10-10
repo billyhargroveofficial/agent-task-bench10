@@ -1,0 +1,14 @@
+`access.log` has one request per line:
+`<ISO timestamp> <ip> <METHOD> <path> <status> <latency_ms>`.
+
+Write `report.json` with exactly these keys:
+- `total_requests`: number of lines.
+- `top_5xx_ips`: the 5 IPs with the most responses whose status is 500-599, as a list of
+  `{"ip": ..., "count": ...}` ordered by count descending, ties by ip ascending (string order).
+- `peak_error_hour`: the hour with the most 5xx responses, formatted `YYYY-MM-DD HH`
+  (ties: the earliest hour).
+- `p95_latency_orders_ms`: the 95th percentile of latency for requests whose path is exactly
+  `/api/orders`, using the nearest-rank method (sort ascending, take the value at position
+  ceil(0.95 * n), 1-based), as an integer.
+
+Work only inside the current directory. Do not ask questions; when the result is ready, stop.

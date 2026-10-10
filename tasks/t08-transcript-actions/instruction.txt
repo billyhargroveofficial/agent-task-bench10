@@ -1,0 +1,8 @@
+`transcript.txt` is a transcript of a design review call held on Tuesday 2026-10-06.
+Extract every action item that is still valid at the end of the call and write
+`actions.json`: a JSON array of objects `{"owner": <first name>, "task": <short description>,
+"due": "YYYY-MM-DD"}`. Resolve relative deadlines against the call date. Items that were
+cancelled or replaced later in the call must not appear; if an item was reassigned or its
+deadline moved, record the final owner and deadline. The work week is Monday to Friday.
+
+Work only inside the current directory. Do not ask questions; when the result is ready, stop.

@@ -1,0 +1,568 @@
+Design review call, Tuesday 2026-10-06
+
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Ilya: Reminder that the office is closed on the fourth of November.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Reminder that the office is closed on the fourth of November.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Ilya: Reminder that the office is closed on the fourth of November.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Marta: I'll redo the storyboard for the opening and send it by this Friday.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Reminder that the office is closed on the fourth of November.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Oleg: Licensing for the new font is on me, I will have it sorted one week from today.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Reminder that the office is closed on the fourth of November.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Ilya: Reminder that the office is closed on the fourth of November.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Dina: I can re-export the hero shot in 4K by tomorrow.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Reminder that the office is closed on the fourth of November.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Pavel, could you also rebuild the title animation by Wednesday?
+Pavel: Honestly no, scratch that, we agreed the title stays as is. Dropping it.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Reminder that the office is closed on the fourth of November.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Pavel: I'll take the color pass on scenes three to five, give me until next Monday.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Reminder that the office is closed on the fourth of November.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Reminder that the office is closed on the fourth of November.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: Subtitles for the English cut, two weeks from today, I'll own that.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Reminder that the office is closed on the fourth of November.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Ilya: I'll send the updated budget table on Thursday this week.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Reminder that the office is closed on the fourth of November.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Dina: Thumbnails, three variants, by Friday next week.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Reminder that the office is closed on the fourth of November.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Ilya: Reminder that the office is closed on the fourth of November.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Actually the budget table moves, I can only send it on Friday this week, not Thursday.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Ilya: Reminder that the office is closed on the fourth of November.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Ilya: Reminder that the office is closed on the fourth of November.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Ilya: Reminder that the office is closed on the fourth of November.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Ilya: Reminder that the office is closed on the fourth of November.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Reminder that the office is closed on the fourth of November.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Ilya: Reminder that the office is closed on the fourth of November.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Ilya: Reminder that the office is closed on the fourth of November.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Ilya: Reminder that the office is closed on the fourth of November.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Oleg: I'll get the music cue sheet to the client on the fourteenth.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Oleg: I'm out next week after all. Dina, can you take the music cue sheet, same date?
+Dina: Yes, the cue sheet is mine now, the fourteenth stands.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: The second scene still feels too long to me, the pan drags a bit.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Reminder that the office is closed on the fourth of November.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Dina: Render farm was slow yesterday, queue was around forty minutes.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Ilya: Reminder that the office is closed on the fourth of November.
+Marta: We could try a cooler grade, but I'm not convinced yet.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Ilya: Reminder that the office is closed on the fourth of November.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Marta: The reference from the perfume ad is nice but too glossy for us.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Oleg: I looked at three typefaces, the geometric one reads best at small sizes.
+Ilya: Client liked the last cut, mostly comments on pacing and the logo sting.
+Pavel: Let's not decide on the outro today, we need the voiceover first.
+Oleg: Can everyone drop their notes into the shared doc instead of chat?
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Dina: Audio sync drifted by two frames in the last export, I fixed the preset.
+Ilya: Great, that's everything. Thanks all.

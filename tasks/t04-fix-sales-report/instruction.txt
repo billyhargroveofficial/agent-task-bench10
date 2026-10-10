@@ -1,0 +1,5 @@
+The `salesrep` tool prints wrong totals. `README.md` describes the intended behaviour.
+Run `python3 -m salesrep data/sales.csv` to see the current output. Find and fix every bug
+so the output follows the README exactly. Do not change the output format or the CLI.
+
+Work only inside the current directory. Do not ask questions; when the result is ready, stop.

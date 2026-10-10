@@ -1,0 +1,6 @@
+Make a Telegram video sticker from `input.mp4` and save it as `sticker.webm`.
+Requirements: use the LAST 3 seconds of the video; VP9 codec in a WebM container; no audio
+stream; the longer side exactly 512 px with the aspect ratio preserved; duration at most
+3.0 seconds; frame rate at most 30 fps; file size at most 256 KB. `ffmpeg` is installed.
+
+Work only inside the current directory. Do not ask questions; when the result is ready, stop.

@@ -1,0 +1,5 @@
+`intervals.py` has a function `merge(intervals)` that does not behave as its docstring says;
+`python3 test_basic.py` shows a failure. Fix `merge` so that it fully matches the docstring.
+Do not change the function name or signature.
+
+Work only inside the current directory. Do not ask questions; when the result is ready, stop.

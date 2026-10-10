@@ -1,0 +1,45 @@
+model = "gpt-6.1-sol"
+model_reasoning_effort = "medium"
+service_tier = "default"
+approval_policy = "never"
+
+[model_providers]
+
+# [model_providers.proxy]
+# name = "Proxy"
+# base_url = "http://127.0.0.1:8317/v1"
+# experimental_bearer_token = "FAKE-TOKEN-FOR-BENCHMARK-0000"
+# wire_api = "responses"
+
+[features]
+memories = false
+apps = true
+
+[features.multi_agent_v2]
+enabled = true
+max_concurrent_threads_per_session = 16
+
+[mcp_servers.docs]
+url = "https://example.com/mcp"
+
+[mcp_servers.telegram]
+url = "http://127.0.0.1:8787/mcp"
+enabled = false
+
+[mcp_servers.blender]
+command = "/usr/local/bin/blender-mcp"
+
+[mcp_servers.blender.env]
+BLENDER_MCP_PORT = "9876"
+
+[mcp_servers.runpod]
+url = "https://mcp.example-pods.io/"
+enabled = true
+
+[mcp_servers.cinema]
+command = "/usr/local/bin/cinema-mcp"
+startup_timeout_sec = 90.0
+
+[tui]
+theme = "ansi"
+status_line = ["model", "branch"]

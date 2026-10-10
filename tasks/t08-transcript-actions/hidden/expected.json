@@ -1,0 +1,42 @@
+[
+ {
+  "owner": "Marta",
+  "kw": "storyboard",
+  "due": "2026-10-09"
+ },
+ {
+  "owner": "Oleg",
+  "kw": "font",
+  "due": "2026-10-13"
+ },
+ {
+  "owner": "Dina",
+  "kw": "export",
+  "due": "2026-10-07"
+ },
+ {
+  "owner": "Pavel",
+  "kw": "color",
+  "due": "2026-10-12"
+ },
+ {
+  "owner": "Marta",
+  "kw": "subtitle",
+  "due": "2026-10-20"
+ },
+ {
+  "owner": "Ilya",
+  "kw": "budget",
+  "due": "2026-10-09"
+ },
+ {
+  "owner": "Dina",
+  "kw": "thumbnail",
+  "due": "2026-10-16"
+ },
+ {
+  "owner": "Dina",
+  "kw": "music",
+  "due": "2026-10-14"
+ }
+]

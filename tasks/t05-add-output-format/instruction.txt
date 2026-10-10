@@ -1,0 +1,11 @@
+`wordfreq.py` counts words in a text file and prints a table. Add two options:
+
+- `--format table|json|csv` (default `table`, which must print exactly what it prints now).
+  `json`: a JSON array of objects `{"word": ..., "count": ...}`.
+  `csv`: a header line `word,count` followed by one `word,count` line per word.
+- `--top N`: output only the first N entries (default: all).
+
+In every format entries are ordered by count descending, then by word ascending.
+Usage stays `python3 wordfreq.py FILE [options]`.
+
+Work only inside the current directory. Do not ask questions; when the result is ready, stop.

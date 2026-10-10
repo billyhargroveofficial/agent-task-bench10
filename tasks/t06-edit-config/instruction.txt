@@ -1,0 +1,11 @@
+Edit `config.toml`:
+
+1. Disable every MCP server except `telegram` by setting `enabled = false` in its section.
+   Do not delete any server section. `telegram` must end up enabled.
+2. Set `model_reasoning_effort` to "high".
+3. Set `max_concurrent_threads_per_session` to 8.
+4. Delete the commented-out `[model_providers.proxy]` block completely, including its token line.
+
+Everything else must stay as it is. The file must remain valid TOML.
+
+Work only inside the current directory. Do not ask questions; when the result is ready, stop.

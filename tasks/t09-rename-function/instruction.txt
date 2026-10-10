@@ -1,0 +1,8 @@
+In the `geomkit` package rename the function `calc_dist` to `distance` everywhere: its
+definition, all imports and calls, `__all__`, and `README.md`. Keep backward compatibility:
+`geomkit.calc_dist` must still work as an alias defined in `geomkit/__init__.py` that emits
+a `DeprecationWarning` and returns the same result as `distance`. Apart from that alias the
+name `calc_dist` must not appear anywhere in the package or the README.
+`python3 -m unittest -q` must still pass (update the tests to the new name).
+
+Work only inside the current directory. Do not ask questions; when the result is ready, stop.

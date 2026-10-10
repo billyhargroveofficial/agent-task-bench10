@@ -1,0 +1,15 @@
+The `tree/` directory contains files, some of which are byte-identical duplicates stored under
+different names. Write `dedupe.py` and run it so that:
+
+- For every group of identical files exactly one stays in `tree/`: the one with the oldest
+  modification time (ties: the path that sorts first as a string).
+- Every other copy is moved to `dupes/`, keeping its path relative to `tree/`
+  (`tree/a/b.txt` goes to `dupes/a/b.txt`).
+- `manifest.csv` is written with the header `kept,moved,sha256` and one line per moved file:
+  the path of the kept file, the original path of the moved file (both relative to the
+  current directory, starting with `tree/`), and the SHA-256 of the content. Lines are sorted
+  by the `moved` column.
+
+Files that have no duplicates must not be touched.
+
+Work only inside the current directory. Do not ask questions; when the result is ready, stop.

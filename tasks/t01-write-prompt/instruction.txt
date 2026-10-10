@@ -1,0 +1,7 @@
+Write a very detailed English prompt for generating ONE image and save it to `prompt.txt`.
+Subject: one enormous, powerful old lilac bush in an abandoned manor park in central Russia
+at dawn after rain. Cover composition, light, botany, textures, colour, optics, atmosphere,
+surroundings and what to exclude. Length: 1200 to 1500 words. The file must contain only the
+prompt text.
+
+Work only inside the current directory. Do not ask questions; when the result is ready, stop.
